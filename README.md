@@ -19,6 +19,16 @@
 
 ---
 
+## 📚 Atualmente Estudando
+
+```txt
+✔ Lógica de Programação
+✔ Desenvolvimento Web
+✔ Git & GitHub
+✔ Fundamentos de Sistemas
+```
+---
+
 ## 🚀 Tecnologias
 
 <p align="center">
@@ -51,11 +61,3 @@
 </p>
 
 ---
-
-## 📚 Atualmente Estudando
-
-```txt
-✔ Lógica de Programação
-✔ Desenvolvimento Web
-✔ Git & GitHub
-✔ Fundamentos de Sistemas
