@@ -23,6 +23,14 @@
 + 🚀 Evoluindo diariamente através da programação
 + ⚡ Construindo projetos reais
 ```
+## 📚 Atualmente Estudando
+
+```txt
+✔ Lógica de Programação
+✔ Desenvolvimento Web
+✔ Git & GitHub
+✔ Fundamentos de Sistemas
+```
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,git,github,vscode,linux&perline=5"/> </p>
 
