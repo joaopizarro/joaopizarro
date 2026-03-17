@@ -26,10 +26,10 @@
 ## 📚 Atualmente Estudando
 
 ```diff
-✔ Lógica de Programação
-✔ Desenvolvimento Web
-✔ Git & GitHub
-✔ Fundamentos de Sistemas
++ Lógica de Programação
++ Desenvolvimento Web
++ Git & GitHub
++ Fundamentos de Sistemas
 ```
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,git,github,vscode,linux&perline=5"/> </p>
