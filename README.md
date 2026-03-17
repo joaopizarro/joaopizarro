@@ -25,7 +25,7 @@
 ```
 ## 📚 Atualmente Estudando
 
-```txt
+```diff
 ✔ Lógica de Programação
 ✔ Desenvolvimento Web
 ✔ Git & GitHub
