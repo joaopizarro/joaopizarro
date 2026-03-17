@@ -70,3 +70,7 @@ Desenvolvedor em formação | Estudante SENAI - Sumaré/SP 🇧🇷
 <p align="center">
 ⭐ Obrigado por visitar meu perfil!
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaopizarro/joaopizarro/output/github-contribution-grid-snake.svg" />
+</p>
